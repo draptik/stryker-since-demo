@@ -1,0 +1,3 @@
+# Stryker.NET Demo
+
+Trying to understand the `--since` and `--baseline` features...
